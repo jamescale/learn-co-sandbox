@@ -1,0 +1,12 @@
+var word
+
+word = 'bird'
+
+word ='dog'
+
+var a = 5,
+    b = 2,
+    c = 3,
+    d = 'hello',
+    e = 'goodbye';
+    
